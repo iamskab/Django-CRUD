@@ -7,7 +7,7 @@ To get it running on your local machine, follow the steps below:
 
 1. Run the commands below in your terminal:
 ```bash
-$ git clone https://github.com/john-bagiliko/CRUD.git 
+$ git clone https://github.com/iamskab/CRUD.git 
 ```
 2. 
 ```bash
